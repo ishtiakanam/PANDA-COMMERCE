@@ -19,3 +19,42 @@
   padding: 9px 25px;
   cursor: pointer;
 }
+.cat1 {
+  background-color: #ff589b;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat2 {
+  background-color: aquamarine;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.cat3 {
+  background-color: blue;
+  padding: 10px 30px;
+  border-radius: 10px;
+}
+.categoris h1 {
+  color: white;
+}
+.categoris img {
+  width: 100px;
+}
+.card {
+  border: none;
+  box-shadow: 5px 5px 10px gray;
+}
+.card-footer {
+  background-color: white;
+  border-top: none;
+  border-radius: 10px;
+}
+#Contuct-us {
+  height: 300px;
+}
+#Contuct-us h6 {
+  color: gray;
+}
+footer {
+  text-align: center;
+}
